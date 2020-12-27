@@ -1,0 +1,239 @@
+What Is Operational Excellence?
+Operational excellence is a framework for businesses to focus on growth and execute their strategy better than their competitors. 
+The first step toward organizational excellence is building efficient processes that make it clear to all employees whether or not an organization’s systems are running smoothly and make it possible for team members to step in with improvements when necessary. 
+These processes, also known as value streams, can produce tangible products like cars or intangible ones like services. Drawing from continuous improvement and other tools, companies pursuing operational excellence adopt a mindset of problem solving, teamwork, and top-line growth, allowing them to create more value for customers.  
+The drive to keep improving in order to have the capacity to pursue innovation and growth (also known as execution excellence) rests on two primary pillars: the systematic management of operations and the commitment to a positive culture that focuses on customers’ needs and empowers staff. Empowered staff members have a clear understanding of goals and plans, feel secure in taking initiative, and come up with ways to fix problems. 
+
+“Operational excellence enables an organization to do more with the same staff through better employee engagement and streamlined processes. It is not about cutting resources, but rather about figuring out together how we can better apply our resources,” says Sergei Brovkin, Principal of organizational performance consulting firm Collectiver Inc. 
+Practicing operational excellence requires you to see the concept as a culture that permeates everything you do, rather than as an isolated initiative or event.
+Operationally excellent companies manage their operations with the goal of delivering their product or service to the customer at the exact moment they desire it, at the lowest cost, with the smallest effort, and at the price the customer wants to pay.  
+Many people struggle to understand operational excellence because the concept has inspired many definitions. Some of these definitions are vague and hard to put into practice, such as “being the best” or achieving “world-class” performance.
+To arrive at an actionable definition of operational excellence, leading experts promote key concepts in continuous improvement methodologies.
+Operational Excellence Focuses on Value
+Like the related theories of Lean and Six Sigma, operational excellence shares a focus on the concept of value. These theories define value from the customer’s viewpoint. Value, in essence, represents what the customer really wants and is willing to pay for.   
+Value streams are the processes for building products or services that your customers want. The systematic improvements in operational excellence are geared toward creating efficient value streams, meaning that they flow at the rate of customer demand. 
+Operational excellence specialists make the timing of value streams visual and visible. In a manufacturing plant, the assembly line is an instantly visible value stream. When the production rate is occurring at the proper pace, you can see that every process is running smoothly. In other words, when the rate is ideal, there are no bottlenecks, there is no backup of semi-processed goods, and there is no downtime in which workers wait for material to arrive from the previous station.
+If you produce an intangible product or service, such as software or consulting, you can still make value streams visible by creating visual signals for the rate of flow. We will discuss how you achieve this later in this article. But, the important point to keep in mind for now is that when the value stream is visible, every member of your organization can see when things are working properly or can act to solve a problem. 
+This idea is so important to the tenets of operational excellence that the Institute for Operational Excellence defines operational excellence as “the point at which each and every employee can see the flow of value to the customer and can fix that flow before it breaks down.”
+
+At the risk of stating the obvious, remember that the focus of operational excellence is  operations. This approach does not deal with strategy, such as decisions about which products to offer, how to distribute them, or which geographic markets to enter. Those strategic questions are the domain of senior management, who, when operational excellence is in place, can concentrate on revenue growth, rather than involving themselves in day-to-day operations. 
+Some experts liken operational excellence to a journey rather than a destination. You can always get a little bit better, so your definition of excellence is relative to your current status and will change over time. 
+However, it’s also crucial to remember that this improvement is not just for its own sake. As Kevin Duggan, Founder of the Institute for Operational Excellence, notes, “What good is an efficient factory if the customer no longer needs our product?” Operational excellence’s goal is to ensure that your operations create and deliver products that customers want so that the business keeps growing.
+
+“Operational excellence is not just about bottom-line efficiencies and productivity. It’s about top-line growth in the business. The point of seamless flow without management intervention is that you want management to be facing the market,” Duggan says.
+________________________________________
+What Are Operational Excellence Principles?
+As mentioned earlier, there are many definitions of operational excellence, so it’s not surprising that there have been many attempts to capture the concept’s main principles. For the purposes of this article, we’ll highlight three particular expressions of these principles because they have been the most influential and widely adopted.
+Institute for Operational Excellence
+Below is Duggan’s concept of the operational excellence principles. These eight precepts link closely to the ideas of value, flow, and work visibility that we discussed previously: 
+1.	Design Lean Value Streams: Design future-state value streams based on principles for achieving end-to-end flow, not Kaizen improvement events or brainstorming. 
+2.	Make Lean Value Streams Flow: Implement the design through customized, formal training and education, followed by implementation in the target areas to make the design come to life. 
+3.	Make the Flow Visual: Establish visuals that let each and every employee see how the flow connects from raw material all the way to the customer. 
+4.	Create Standard Work for the Flow: Establish standard work for the flow between the processes to define normal flow for the entire value stream. 
+5.	Make the Abnormal Flow Visual: Enable each and every employee to see when the flow has become abnormal, simply by looking with their eyes, by using different tools such as color coding. 
+6.	Create Standard Work for the Abnormal Flow: Work with employees on a menu of choices for how they respond to abnormal flow. This will eliminate the need for management intervention. 
+7.	Have Employees in the Flow Improve the Flow: Continuously improve the performance of the flow to meet customer demand, and aggressively work to prevent abnormal flow. 
+8.	Perform Offense Activities: Management spends time on offense, which are the activities that grow the business, including becoming a solution or technology provider to customers, innovating future products with customers, and more.
+________________________________________
+Shingo Guiding Principles
+Another authoritative set of principles, called the Shingo Guiding Principles or Shingo Model,  comes from the work of late Japanese industrial engineer Shigeo Shingo, who was a landmark figure in manufacturing design and the Toyota Production System.
+Shingo’s ideas and 18 books were hugely influential in the West, and, in 1988, Utah State University’s Jon M. Huntsman School of Business created the Shingo Prize for Operational Excellence in order to recognize companies that excel in applying Shingo’s principles. Past winners have included insurers, military departments, pharmaceutical makers, and consumer products manufacturers. 
+ 
+Shingo Guiding Principles are grouped into four areas that build on one another like a pyramid:
+•	At the Base Are Cultural Enablers: 
+•	Respect every individual.
+•	Lead with humility.
+•	Next Are Drivers of Continuous Improvement:
+•	Seek Perfection.
+•	Assure Quality at the Source: Do work right the first time and correct mistakes when they occur.
+•	Flow and Pull Value: Maximize customer value by creating an uninterrupted, continuous production flow that responds to true customer demand. 
+•	Embrace Scientific Thinking: Follow a disciplined process of problem solving through experimentation and learning, and encourage employees to consider new ideas without fear of failure. 
+•	Focus on Process: Many organizations blame failure on individuals. But, you need strong processes to produce consistently good results.  
+•	Moving Toward the Top of the Pyramid Are Factors That Create Alignment Across Your Organization:
+•	Think Systemically: Break down silos and think of your organization holistically. Recognize that processes and people are interconnected and work to break down barriers.
+•	Create Constancy of Purpose: Be absolutely clear about your mission, strategy, and plans, and tie your daily activities to your larger purpose and goals. 
+•	At the Peak of the Pyramid Lie Results:
+•	Create Value for the Customer: This is your raison d’etre, so you must constantly strive to know what your customers need and expect.
+________________________________________
+Practitioners Offer More Operational Excellence Principles
+Practitioners have developed many other formulations of the principles of operational excellence. Marvin Wurtzel, an independent consultant and a faculty member of BPMInstitute.org, says operational excellence depends on the performance of the following seven criteria:
+1.	Strategy: Leadership creates the vision and values and distills them into strategic focus and direction.
+2.	Metrics: Balanced scorecards and strategic planning tools cascade down through an organization.
+3.	Culture: Staff members understand the strategy and are accountable for the results.
+4.	Processes: The organization has an integrated business process architecture.
+5.	Methodology: You apply discipline and rigor to continuous improvement through a method such as Lean Six Sigma (LSS).
+6.	Project Management: In accordance with the Project Management Book of Knowledge (PMBOK), you apply discipline and rigor to projects.
+7.	Tools:  Embrace tools for solution delivery, problem solving, and continuous process improvement.
+________________________________________
+Reasons that Operational Excellence Efforts Fail
+Operational excellence initiatives are highly popular, but research by McKinsey & Company finds that more than 70 percent of organizational transformations like operational excellence fail. Flawed leadership and poor communication are common causes. 
+Your company can beat those odds, McKinsey finds, by taking a “rigorous, action-oriented approach” that includes effective communication, active leadership, empowered staff, and an environment of continuous improvement. The firm identifies 24 practical actions that foster success. Companies that perform these actions see their operational excellence programs succeed 79 percent of the time. 
+Experts say that the causes for failure usually fall under the headings of leadership, mindset, and execution.
+Reasons that leadership causes operational excellence programs to fail include the following: senior management either lacks understanding or expertise in operational excellence and embarks on the effort for the wrong reasons; leadership is unclear or inconsistent; leaders don’t model the changes they ask of staff; senior management focuses too much on short-term results; and they lose sight of the significance of the customer.
+Operational excellence can run aground if the right mindset is not in place. You cannot view your effort as a one-off initiative; it must become your culture. Resistance to change among staff can also derail an operational excellence program.
+Execution-related reasons for failure include the following: implementing your effort top down without bottom-up feedback; making too many changes in a short time; confining improvement efforts within silos so the whole organization does not benefit; not aligning roles with the strategy; having poor communication; having a lack of accountability; and failing to measure results. 
+Duggan of the Institute for Operational Excellence ties failure to a poor grasp of what operational excellence represents. In these cases, leaders often concentrate too much on Lean’s waste elimination or the idea of continuously improving. Instead, he encourages them to picture and achieve a goal of seamless delivery of value. “Lean and continuous improvement are very good things. But, the biggest driver of moving the operation from point A to point B is knowing what point B is,” Duggan explains.
+________________________________________
+What Are the Benefits of Operational Excellence?
+Operational excellence yields tangible results. A company that achieves operational excellence will have lower costs, higher revenues, less risk, and more satisfied customers than a competitor that does not. 
+Here are some of the commonly cited benefits of operational excellence:
+•	Efficiency in processes and use of resources
+•	Cost reduction or containment
+•	Engaged, stable workforce
+•	Cohesive management
+•	Strong shareholder value
+•	High-quality standards
+•	Beneficial partnerships with suppliers
+________________________________________
+Why Is Operational Excellence Important?
+Operational excellence matters because it is a big competitive advantage. Relatively small process improvements have large impacts. Research in the Harvard Business Review found that companies with peak operational excellence have 25 percent higher growth and 75 percent higher productivity than laggards.
+Operational excellence is one of the three value propositions that can act as an organization’s competitive foundation, according to authors Michael Treacy and Fred Wiersema in their book The Discipline of Market Leaders. (The other two value propositions are product leadership and customer intimacy.)
+So, what’s the secret? Operational excellence helps you succeed in good times and bad because of the way it impacts key characteristics and behaviors of your organization.
+•	Agile: Operational excellence is oriented around ongoing adaptation, so it is flexible and dynamic. Markets change, customer tastes shift, innovators introduce new technology, and problems arise. When you apply the principles of operational excellence, you naturally have a self-correcting mechanism to ensure you meet customer needs and that your business continues to grow.
+•	Strategic: When you practice operational excellence, your company leadership does not need to get involved in solving low-level problems and managing daily operations. Instead, senior executives are able to work on new products or markets and revenue opportunities. So, rather than fighting fires, leaders focus on the big picture, fending of threats and keeping the business growing. 
+•	Efficient: By homing in on value streams, you achieve efficient operations that cut out waste. By doing this, you can deliver value to customers at the best possible price and keep quality high. Efficiency also results in greater profitability.
+•	Workforce: Empowering employees to solve problems creates a strong organizational culture, which will help you attract and retain staff. In this climate, team members are more willing to consider new ideas and are motivated to bring suggestions to management. These improvements can lead to new opportunities, cost cuts, or increased demand. 
+•	Growth: Operational excellence relies on using standardized processes and continually improving them. These imperatives provide a template for running your business that is easy to transfer to new locations or teams, facilitating growth. Once you optimize every aspect of your operation and codify best practices, training new staff becomes easy.
+________________________________________
+Roots of Operational Excellence
+For as long as modern business has existed, leaders and managers have sought to improve the way they work. Operational excellence as an approach owes debts to many management theories and thinkers.
+These include the originators of so-called scientific management: Adam Smith, the 18th century author of The Wealth of Nations, who introduced ideas around the division of labor; Frederick Winslow Taylor, a leading proponent of scientific management in the 19th century, who sought to engineer workflows for improved efficiency; and Henry Ford, Founder of the Ford Motor Co., who played a leading role in the development of the assembly line. 
+With its contributions of Lean, the Toyota Production System, just-in-time (JIT), and the Toyota Way, Japan’s industrial revolution also shaped operational excellence. People like Toyota engineer Taiichi Ohno were instrumental in developing Toyota’s methods.
+Business process improvement methods, such as Six Sigma, root cause analysis processes DMAIC and 5 Whys,  Hoshin Kanri, Kanban, business process mapping, Lean Six Sigma’s DMADV and other tools, as well as data-driven decision makingideas, have all left an imprint on operational excellence.
+________________________________________
+Operational Excellence Models
+Operational excellence models are frameworks for improving your process execution. Models usually cover executing deployment, managing performance, refining processes, and elevating culture. 
+
+“Operational Excellence is made up of four main categories. They include strategy deployment, performance management, high performance work teams, and process excellence,” notes Peter Peterka, CEO of training company Global Six Sigma and Chairman of the International Society of Six Sigma Professionals.
+Under the operational excellence mode, beneath the four main categories, fall tools and methodologies to achieve such objectives as vision and risk management.
+“The key is a good framework, sometimes referred to as the operational excellence house. This framework includes things like Six Sigma, Lean, Kaizen, and other key methods that you use together to complete the structure. You can’t have a completed house without each piece,” Peterka says.
+Organizations can use these models in various ways — for working with entirely new ventures, for fixing existing businesses, or for filling in selected gaps in the cross-functional management of operations.
+Here are some well-known operational excellence models:
+1.	Baldrige Excellence Framework: This framework lays out criteria, concept, and scoring guidelines for performance excellence in organizations. Named for the late U.S. businessman and Secretary of Commerce Malcolm Baldridge, the model helps companies assess their improvement processes and identify where they should focus their efforts. 
+
+The criteria are also used to select winners for the Malcolm Baldrige National Quality Award, which recognizes businesses and nonprofit organizations for performance excellence as part of a mission to make U.S. organizations more competitive.  Here are the core concepts of the Baldrige model:
+•	Visionary leadership
+•	Customer-driven excellence
+•	Organizational and personal learning
+•	The valuing of employees and partners
+•	Agility
+•	Focus on the future
+•	Management for innovation
+•	Management by fact
+•	Social responsibility
+•	Focus on results and creating value
+•	Systems perspective
+
+The Baldridge framework forms the basis of more than 70 other national business excellence programs around the world. Canada has a similar initiative, called Excellence Canada, that awards the Canada Awards for Excellence and created the Canadian Framework for Business Excellence as a model for businesses to improve. Its principles include the following:
+ 
+•	Leadership through involvement
+•	Primary focus on stakeholders/customers and marketplace
+•	Cooperation and teamwork
+•	Prevention-based process management
+•	Factual approach to decision making
+•	Continuous learning and people involvement
+•	Focus on continuous improvement and breakthrough thinking
+•	Fulfillment of obligations to all stakeholders and society
+2.	European Foundation for Quality Management: In Europe, the EFQM model created by the European Foundation for Quality Management is the most well-known operational excellence framework. Fourteen leading European CEOs started this effort in 1988 with a goal of helping businesses become more competitive by benchmarking them where they are, outlining gaps, and identifying solutions.
+
+An update to the EFQM model is due in 2020, but here are the core values identified in its 2013 version:
+•	Adding value for customers
+•	Creating a sustainable future
+•	Developing organizational capability
+•	Harnessing creativity and innovation
+•	Leading with vision, inspiration, and integrity
+•	Managing with agility
+•	Succeeding through the talent of people
+•	Sustaining outstanding results
+
+As with the Baldrige model, the EFQM model has inspired efforts in other nations. There are also models that combine elements of these two models. These hybrid models are in use in such places as in Singapore. 
+3.	Total Quality Management (TQM): This is a management system for operational excellence that involves all staff in continual improvement. This framework arose in the 1970s as Western companies struggled to compete in the face of Japan’s quality excellence.
+
+This model became closely associated with the work of W. Edwards Deming, who pioneered quality improvement processes and advanced statistical quality control. His ideas contributed greatly to Japan’s economic rise after World War II. 
+
+The Union of Japanese Scientists and Engineers created a prize in 1951 in honor of Deming, and the Deming Prize is awarded annually to organizations that excel in TQM.  Originally, the winners were all Japanese companies, but Florida Power & Light became the first non-Japanese winner in 1989. Since then, companies elsewhere in Asia, including India and Indonesia, have used the model and won the Deming Prize. 
+
+Summarizing TQM’s principles, the American Society for Quality says TQM is “a management approach to long-term success through customer satisfaction. TQM is based on all members of an organization participating in improving processes, products, services, and the culture in which they work.”
+________________________________________
+How Do You Achieve Operational Excellence?
+While each model is slightly different, they all consider certain concepts as core to operational excellence, so an operational excellence program will typically address these elements. These include performance management, continuous improvement, culture, organizational excellence, and process excellence.  
+•	Performance Management: This covers such things as setting SMART goals, implementing balanced scorecards, using Gemba walks, making sure all team members have the information to do their jobs well, measuring performance with key indicators, collecting performance data, and sharing performance data with the team. 
+
+To perform a Gemba walk, observe the process targeted for improvement first-hand and talk to the staff involved to find what is working and what isn’t. This template guides you through the Gemba walk, questions to ask, and how to identify opportunities for improvement.
+
+
+Download Gemba Walk Worksheet Template — PDF
+•	Continuous Improvement: This category includes steps to ensure that incremental improvement continues through such strategies as Kaizen events. This idea contrasts with the notion of big, disruptive breakthrough changes. Frontline employees often drive continuous improvement efforts.  
+•	Culture: This element concerns mindset and people practices. You want to instill a culture of operational discipline that strives to do the right thing, the right way, every time. You also want to promote the core values of integrity, problem solving, teamwork, and the willingness to question. Leadership must create an environment that attracts the best people, cultivates staff growth, and supports team members.
+•	Organizational Excellence: Here, you work on such things as organizational structure, including making sure that your structure aids rather than hinders your improvement efforts. You can employ such tools as the McKinsey 7S framework to assess seven key elements of your organization (strategy, structure, systems, shared values, style, staff, and skills), or a RACI matrix. 
+•	Process Excellence: This area prioritizes ensuring that your business processes are streamlined and repeatable. Some tools you commonly use here are SIPOC diagrams and value stream mapping. 
+An operational excellence management system (OEMS) represents a set of policies that lay out how your company will function to achieve operational excellence. An OEMS sets expectations across the organization, provides a common language for everyone in the company to talk about this effort, shares best practices, tracks accountability for operational excellence improvement, and advances the continuous improvement process.
+The elements discussed above are a first step toward operational excellence, an enabling process that is not the same as executing operational improvement. Still, the process illustrates important groundwork to introduce employees to operational excellence, curtail top-down thinking, and ensure that goals and accountability align.
+________________________________________
+Operational Excellence Implementation Plan: Phase by Phase
+By this point, you may be ready to get your own operational excellence program under way and be wondering how to set up your organization for success. There are eight main phases, starting with organizing your program and ending with consolidating your gains. 
+“A typical operational excellence effort starts with an assessment, and it is during this assessment phase that we decide with the key stakeholders what it is that we are going to achieve, creating a hierarchy of goals,” explains Brovkin.
+“Uppermost in this effort is establishing the purpose (or mission) of the company. Lofty as it may sound, defining your organization’s purpose is the goal of the operational excellence project. Of course, we then agree on the lower-level goals that roll up into that company purpose and that will serve as indicators of our progress and eventual success,” he notes. 
+Here are the main phases to implement your effort:
+1.	Organize the initiative by picking a team and describing your vision and mission.
+2.	Analyze your current state and document your value stream.
+3.	Identify areas with the highest potential for improvement.
+4.	Determine your strategies and tactics.
+5.	Set concrete improvement goals.
+6.	Execute your projects.
+7.	Assess the impact.
+8.	Consolidate gains and restart at step two. 
+Download this operational excellence implementation plan template to map out the phases of your effort and learn key milestones for each phase.
+
+Download Operational Excellence Implementation Plan Template - Excel
+Duggan, who is the author of Design for Operational Excellence: A Breakthrough Strategy for Business Growth, says that rather than starting with a gap analysis, companies should define what an optimal value stream looks like and then work to achieve that vision.
+ Here are some of the best practices that experts recommend:
+•	Make sure that you have the support of senior management and that the operational excellence effort has a strong sponsor or champion.
+•	Select a first project that will produce quick, noticeable results to solidify organizational support for the effort and show the financial benefits.
+•	For there, expand your deployment, ideally by building an operational excellence team with expertise in the field. Have this group pick and manage your portfolio of improvement initiatives.
+•	Regularly recognize and reward staff who contribute to the effort.
+•	Don’t forget to make sure that the improvements are integrated into the organization’s way of doing things. When you move on to the next projects, continue to monitor and reinforce the current steps.
+________________________________________
+What Are Operational Excellence Roles and Responsibilities?
+The team you task with operational excellence improvements will vary in number based on the size of your organization. Still, this group should have at least some members with expertise in the subject. Typical roles include a director of operational excellence who is responsible for developing and executing improvement initiatives. 
+Other members may include staff with experience facilitating Lean management and implementing related projects. The goal is to make operational excellence a core strength of the company.
+Frequently, staff with training and certifications in improvement methodologies like Six Sigma will lead the effort and may include master black belts and black belts. 
+The operational excellence group’s responsibilities will span such duties as overseeing process improvement events, participating in cross-functional project teams, defining and monitoring performance metrics, fostering culture, and mentoring frontline operational excellence leaders.
+________________________________________
+Operational Excellence Core Competencies
+Leaders in the field cite the following as core competencies for operational excellence staff: the ability to drive performance in line with strategy, strong leadership and engagement skills, cultural fluency, vision, expertise in continuous improvement, knowledge of process transformation, and risk management.
+________________________________________
+What Are Operational Excellence Goals?
+As you have seen, operational excellence flows from a highly intentional effort to improve performance. First, define what you want your operational excellence initiative to achieve. Setting goals will give you a basis against which you can measure success. 
+Generally, you can classify operational excellence goals under four main categories: finances, operations, culture, and enterprise. Let’s look at some specific examples in each category.
+1.	 Examples of Financial Operational Excellence Goals:
+•	Higher sales
+•	Capacity utilization  
+•	Cost control or reduction 
+•	Stronger cash flow
+•	Greater asset productivity
+•	Higher capital efficiency
+•	Shorter payment cycles
+•	Reduced receivables
+•	Efficiencies in supply chain
+2.	Examples of Operational Excellence Goals for Operations
+•	Decreased accident rates or time lost to injuries
+•	Improvement in defect or error rates
+•	Fewer regulatory or compliance issues
+•	Higher customer satisfaction 
+•	Less waste in value stream
+•	Smaller environmental footprint
+•	Reduced downtime
+•	Greater customer retention 
+•	Higher output or productivity
+3.	Examples of Operational Excellence Goals for Culture
+•	Increased training and number of employees with key skills
+•	Greater employee engagement
+•	Enhanced accountability by individual team members
+•	Improvement in cross-department cooperation
+•	Higher employee satisfaction scores
+4.	Examples of Operational Excellence Goals for the Enterprise
+•	Closing the addressable gap between the current state and optimal performance
+•	Realizing the financial value of that gap
+•	Reaching a level of operational excellence maturity relative to industry standards
+
